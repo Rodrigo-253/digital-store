@@ -90,9 +90,9 @@ const HomePage = () => {
 
         <div className="grid sm:grid-cols-4 md:grid-cols-3 gap-3 px-2 md:px-20 lg:px-40 xl:px-58">
           {[
-            "/collection-1.png",
-            "/collection-2.png",
-            "/collection-3.png",
+            "collection-1.png",
+            "collection-2.png",
+            "collection-3.png",
           ].map((image, index) => (
             <div key={index} className="relative overflow-visible bg-white rounded-xl shadow aspect-square">
               <img
