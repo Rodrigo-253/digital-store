@@ -7,7 +7,7 @@ const categorias = [
   },
   {
     nome: 'Calças',
-    imagem: 'https://rivierawear.com.br/cdn/shop/files/S7818ae00b9084262835f54fff6d61f1fU.jpg?v=1688494129',
+    imagem: 'Calca.png',
   },
   {
     nome: 'Bonés',
